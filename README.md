@@ -1,7 +1,7 @@
 # Telecom customer churn analysis & prediction
 
 
-**Introduction:**
+### **Introduction:**
 
 Churn rate is the percentage of subscribers to a service that discontinue their subscription to that service in a given time period.
 
@@ -15,15 +15,15 @@ Customers are moving to other competitor companies due to below reasons.
 
 
 
-**Problem Statement**
+### **Problem Statement**
 
 Using the method of Boosting, classify whether or not the customer will churn
 
 
-**Algorithms used:**
+### **Algorithms used:**
 
-   1.Logistic regression
-   2.Random forest 
-   3.AdaBoost 
-   4.XGBoost
+   1.Logistic regression<br>
+   2.Random forest <br>
+   3.AdaBoost <br>
+   4.XGBoost<br>
 
