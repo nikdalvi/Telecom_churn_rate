@@ -18,3 +18,12 @@ Customers are moving to other competitor companies due to below reasons.
 **Problem Statement**
 
 Using the method of Boosting, classify whether or not the customer will churn
+
+
+**Algorithms used:**
+
+   1.Logistic regression
+   2.Random forest 
+   3.AdaBoost 
+   4.XGBoost
+
